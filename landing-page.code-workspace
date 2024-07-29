@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "landing-page",
+			"path": "../../home/codespace/landing-page"
+		}
+	],
+	"settings": {}
+}
