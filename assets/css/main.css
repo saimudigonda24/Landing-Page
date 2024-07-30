@@ -3872,12 +3872,12 @@ input, select, textarea {
 
 /* Intro */
 
-	#intro {
-		background-attachment: fixed;
-		background-image: url("images/WebsiteBackgroundImage.jpg");
-		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
+	#intro{
+		background-attachment: fixed !important;
+		background-image: url("images/WebsiteBackgroundImage.jpg") !important;
+		background-position: top right !important;
+		background-repeat: no-repeat !important;
+		background-size: 100% 100% !important;
 	}
 
 		#intro p {
